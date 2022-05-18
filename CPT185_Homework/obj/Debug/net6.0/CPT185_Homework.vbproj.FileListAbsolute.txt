@@ -1,0 +1,15 @@
+C:\Users\Matster\Source\Repos\MpowersMTC_Homework\CPT185_Homework\bin\Debug\net6.0\CPT185_Homework.exe
+C:\Users\Matster\Source\Repos\MpowersMTC_Homework\CPT185_Homework\bin\Debug\net6.0\CPT185_Homework.deps.json
+C:\Users\Matster\Source\Repos\MpowersMTC_Homework\CPT185_Homework\bin\Debug\net6.0\CPT185_Homework.runtimeconfig.json
+C:\Users\Matster\Source\Repos\MpowersMTC_Homework\CPT185_Homework\bin\Debug\net6.0\CPT185_Homework.dll
+C:\Users\Matster\Source\Repos\MpowersMTC_Homework\CPT185_Homework\bin\Debug\net6.0\CPT185_Homework.pdb
+C:\Users\Matster\Source\Repos\MpowersMTC_Homework\CPT185_Homework\obj\Debug\net6.0\CPT185_Homework.vbproj.AssemblyReference.cache
+C:\Users\Matster\Source\Repos\MpowersMTC_Homework\CPT185_Homework\obj\Debug\net6.0\CPT185_Homework.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Matster\Source\Repos\MpowersMTC_Homework\CPT185_Homework\obj\Debug\net6.0\CPT185_Homework.AssemblyInfoInputs.cache
+C:\Users\Matster\Source\Repos\MpowersMTC_Homework\CPT185_Homework\obj\Debug\net6.0\CPT185_Homework.AssemblyInfo.vb
+C:\Users\Matster\Source\Repos\MpowersMTC_Homework\CPT185_Homework\obj\Debug\net6.0\CPT185_Homework.vbproj.CoreCompileInputs.cache
+C:\Users\Matster\Source\Repos\MpowersMTC_Homework\CPT185_Homework\obj\Debug\net6.0\CPT185_Homework.dll
+C:\Users\Matster\Source\Repos\MpowersMTC_Homework\CPT185_Homework\obj\Debug\net6.0\refint\CPT185_Homework.dll
+C:\Users\Matster\Source\Repos\MpowersMTC_Homework\CPT185_Homework\obj\Debug\net6.0\CPT185_Homework.pdb
+C:\Users\Matster\Source\Repos\MpowersMTC_Homework\CPT185_Homework\obj\Debug\net6.0\CPT185_Homework.genruntimeconfig.cache
+C:\Users\Matster\Source\Repos\MpowersMTC_Homework\CPT185_Homework\obj\Debug\net6.0\ref\CPT185_Homework.dll

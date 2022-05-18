@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "CPT185_Homework/1.0.0": {
+        "runtime": {
+          "CPT185_Homework.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "CPT185_Homework/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
